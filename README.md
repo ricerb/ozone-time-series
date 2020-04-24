@@ -15,10 +15,15 @@ cd streamlit-time-series
 
 #install requirements
 pip install -r ./requirements.txt
+```
 
-#run the jupyter notebook prototype:
+Run the jupyter notebook prototype:
 
+```
+#enable widgets
 jupyter nbextension enable --py --sys-prefix widgetsnbextension
+
+#launch jupyter
 jupyter-notebook
 ```
 Jupyter navigator should open in browser. Open "data explorer notebook.ipynb".
