@@ -21,7 +21,7 @@ pip install -r ./requirements.txt
 
 In a command prompt:
 
-```
+```bash
 #enable widgets
 jupyter nbextension enable --py --sys-prefix widgetsnbextension
 
