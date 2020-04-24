@@ -17,7 +17,9 @@ cd streamlit-time-series
 pip install -r ./requirements.txt
 ```
 
-Run the jupyter notebook prototype:
+## Run the jupyter notebook prototype
+
+In a command prompt:
 
 ```
 #enable widgets
