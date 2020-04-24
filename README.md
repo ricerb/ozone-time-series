@@ -4,7 +4,9 @@ A mini app for filtering through a large dataset of time series data
 
 ## Requirements
 
-Using Python 3.6 or higher:
+* Python 3.6 or higher
+
+In a command prompt:
 
 ```bash
 #clone repo to the desired directory
@@ -13,11 +15,9 @@ cd streamlit-time-series
 
 #install requirements
 pip install -r ./requirements.txt
-```
 
-To run the jupyter notebook prototype:
+#run the jupyter notebook prototype:
 
-```bash
 jupyter nbextension enable --py --sys-prefix widgetsnbextension
 jupyter-notebook
 ```
