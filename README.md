@@ -7,7 +7,7 @@ A mini app for filtering through a large dataset of time series data
 Using Python 3.6 or higher:
 
 ```bash
-#clone repo
+#clone repo to the desired directory
 git clone https://github.com/ricerb/streamlit-time-series.git
 cd streamlit-time-series
 
@@ -21,4 +21,4 @@ To run the jupyter notebook prototype:
 jupyter nbextension enable --py --sys-prefix widgetsnbextension
 jupyter-notebook
 ```
-Jupyter navigator should open in browser. Open streamlit-time-series/data explorer notebook.ipynb.
+Jupyter navigator should open in browser. Open "data explorer notebook.ipynb".
