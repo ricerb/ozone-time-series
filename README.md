@@ -1,4 +1,4 @@
-# streamlit-time-series
+# ozone-time-series
 
 A mini app for filtering through a large dataset of time series data
 
@@ -10,8 +10,8 @@ In a command prompt:
 
 ```bash
 #clone repo to the desired directory
-git clone https://github.com/ricerb/streamlit-time-series.git
-cd streamlit-time-series
+git clone https://github.com/ricerb/ozone-time-series.git
+cd ozone-time-series
 
 #install requirements
 pip install -r ./requirements.txt
