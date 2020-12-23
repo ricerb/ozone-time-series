@@ -20,13 +20,15 @@ pip install -r ./requirements.txt
 jupyter nbextension enable --py --sys-prefix widgetsnbextension
 ```
 
-## Run the jupyter notebook prototype
+## Run the jupyter notebook
 
 * Add the .pkl data file to the "ozone-time-series" folder
 
 In a command prompt:
 
 ```bash
+cd ozone-time-series
+
 #launch jupyter
 jupyter-notebook
 ```
